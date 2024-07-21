@@ -81,6 +81,6 @@ Because our project deliverable consisted our of a build file for the Oculus Que
 ## Credits
 This project was the last project of my bachelor's degree and by far the most ambitious I had worked on. I am very proud of the result and would like to thank everyone involved for making this happen.
 
-I would like to thank my fellow team members Ruth Fernandez, Marco Vander Gracht, Timo Baginski, Tibo Van Houtte, Ermando Dulluku and Daniel Dickinson.
+I would like to thank my fellow team members Ruth Fernandez, Marco Vander Gracht, Timo Baginski, Tibo Van Houtte, Ermando Dulluku and Daniel Dickinson for the amazing collaboration we had during our Erasmus.
 
 Also thanks to our project supervisors Michael Iber and Stefan Nebel for supporting us.

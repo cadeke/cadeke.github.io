@@ -57,4 +57,4 @@ The following screenshots show some of the scenes of this walkthrough.
 </div>
 
 ## Credits
-I would like to thank my team member for their collaboration during the initial phases of the project.
+I would like to thank my team members for their collaboration during the conceptual design phases of the project.
