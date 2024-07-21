@@ -18,7 +18,7 @@ For my tests, I challenged myself with setting up two use-cases where this devic
 At the end of this project, I was able to accomplish both of my use-cases. 
 
 ### Security awareness
-For the awareness case, I created a so called Ducky script that would download an image and set it as the wallpaper, then run some commands to max out the volume and lock it so it cannot be turned down, and then finally playing [the Internet's favorite song (don't click)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley). This worked quite well on unlocked computers, but was only a bit slow so I would optimize it so it would have a shorter running time.
+For the awareness case, I created a so called Ducky script that would download an image and set it as the wallpaper, then run some commands to max out the volume and lock it so it cannot be turned down, and then finally playing [the Internet's favorite song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) (don't click). This worked quite well on unlocked computers, but was only a bit slow so I would optimize it so it would have a shorter running time.
 
 ### Reverse shell
 For the reverse shell case, I created a second Ducky script that would disable Windows Defender and start a netcat listener. I could then connect to this listener on my attacker machine. In a real-life scenario, this would of course require a lot more steps, but it was still interesting to see it work in my small proof-of-concept.
