@@ -1,81 +1,87 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: VREPS
+description: Multidisciplinary project of seven European students creating an interactive short film
+img: assets/img/vreps-1.png
 importance: 1
-category: work
-related_publications: true
+category: uni
+related_publications: false
 ---
+## Description
+This project was made during the spring of 2022 when I took part in the European Project Semester at the [St. Pölten University of Applied Sciences](https://www.fhstp.ac.at/en?set_language=en) in Austria. During this last semester of my bachelor's degree, I got the chance to take part in this Erasmus exchange project. Together with 6 other ambitious students from all over Europe, we were tasked with creating a digital experience that would highlight the university for potential students.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
+Our goal for this project was to combine the skills of all of our team members in order to create a virtual experience that would guide the player into choosing their path, while highlighting the university's infrastructure and facilities.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We came up with a concept where we would combine a shortfilm with an interactive virtual reality experience. Players would need to make choices during the shortfilm and these choices would influence the remaining storyline of the experience.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+During the development of the project, we applied an agile way of working so we could make incremental improvements during our sprints. We organized ourselves into different departments (e.g. audio, video, game, support) so all aspects of the project could be properly done. We created a professional working environment where every team member knew their tasks and what was expected of them.
+
+We also took part in some supporting classes offered by the hosting university, which gave us more insight into some of the components of the project with which we were not so familiar. On top of that, we got access to some high-end audio and video equipment which helped a lot for the production of the shortfilm.
+
+## Result
+After three months of work, we were able to complete five different storylines and integrate them into a complete virtual experience, playable on the Oculus Quest. As part of our project, we were asked to present our project on the anual project fair at the university.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-3.jpg" title="vreps team 1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-2.webp" title="vreps team 2example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, making some very last minute adjustments, which is not uncommon during live demo's. On the right, our amazing team that made this project happen.
 </div>
+
+
+We were incredibly happy with our result and the opportunity to show our fellow colleagues what we had been working on for the last few months.
+
+Because our project deliverable consisted our of a build file for the Oculus Quest, we didn't have the chance to create a demo which reflects our creation the same way as it would be in a live environment. Nevertheless, I tried to capture the experiences by recording them and making them available on the [following YouTube playlist](https://www.youtube.com/watch?v=UY3OQ8xoT1w&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&ab_channel=CasperDeKeyser). Please have a look if you are interested. The following screenshots highlight the different rooms/paths you can take, but it obviously doesn't highlight our project the same way as playing the experience like it was designed to. You can click on each room to go to the corresponding video.
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=UY3OQ8xoT1w&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&ab_channel=CasperDeKeyser">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-4.png" title="audio room" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=iseI4IvjW-U&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=4&ab_channel=CasperDeKeyser">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-5.png" title="web/app room" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=eo8Ex1kZWG0&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=3&ab_channel=CasperDeKeyser">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-6.png" title="AI room" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    On the left, the audio room showing the virtual recreation of the recording studio. In the middle, the web/app room where users can rebuilt a website. On the right, the AI room containing different sorting mechanisms.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+        <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=2w0P5G7Z1Ac&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=2&ab_channel=CasperDeKeyser">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-7.png" title="game room" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.youtube.com/watch?v=GLzAE8iWdzc&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=5&ab_channel=CasperDeKeyser">
+        {% include figure.liquid loading="eager" path="assets/img/vreps-8.png" title="IOT room" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    On the left, the game room which is actually a VR game within our VR game. On the right, the IOT room presenting a multi-stage challenge.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Credits
+This project was the last project of my bachelor's degree and by far the most ambitious I had worked on. I am very proud of the result and would like to thank everyone involved for making this happen.
 
-{% raw %}
+I would like to thank my fellow team members Ruth Fernandez, Marco Vander Gracht, Timo Baginski, Tibo Van Houtte, Ermando Dulluku and Daniel Dickinson.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Also thanks to our project supervisors Michael Iber and Stefan Nebel.
