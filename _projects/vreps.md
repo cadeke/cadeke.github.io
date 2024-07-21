@@ -2,7 +2,7 @@
 layout: page
 title: VREPS
 description: Multidisciplinary project of seven European students creating an interactive short film
-img: assets/img/vreps-1.png
+img: assets/img/vreps/vreps-1.png
 importance: 1
 category: uni
 related_publications: false
@@ -24,10 +24,10 @@ After three months of work, we were able to complete five different storylines a
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-3.jpg" title="vreps team 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-3.jpg" title="vreps team 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-2.webp" title="vreps team 2example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-2.webp" title="vreps team 2example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,17 +43,17 @@ Because our project deliverable consisted our of a build file for the Oculus Que
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
     <a href="https://www.youtube.com/watch?v=UY3OQ8xoT1w&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&ab_channel=CasperDeKeyser">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-4.png" title="audio room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-4.png" title="audio room" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-2 mt-md-0">
     <a href="https://www.youtube.com/watch?v=iseI4IvjW-U&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=4&ab_channel=CasperDeKeyser">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-5.png" title="web/app room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-5.png" title="web/app room" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-2 mt-md-0">
     <a href="https://www.youtube.com/watch?v=eo8Ex1kZWG0&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=3&ab_channel=CasperDeKeyser">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-6.png" title="AI room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-6.png" title="AI room" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
@@ -65,12 +65,12 @@ Because our project deliverable consisted our of a build file for the Oculus Que
 <div class="row">
         <div class="col-sm mt-2 mt-md-0">
     <a href="https://www.youtube.com/watch?v=2w0P5G7Z1Ac&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=2&ab_channel=CasperDeKeyser">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-7.png" title="game room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-7.png" title="game room" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
             <div class="col-sm mt-2 mt-md-0">
     <a href="https://www.youtube.com/watch?v=GLzAE8iWdzc&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&index=5&ab_channel=CasperDeKeyser">
-        {% include figure.liquid loading="eager" path="assets/img/vreps-8.png" title="IOT room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vreps/vreps-8.png" title="IOT room" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
@@ -84,4 +84,4 @@ This project was the last project of my bachelor's degree and by far the most am
 
 I would like to thank my fellow team members Ruth Fernandez, Marco Vander Gracht, Timo Baginski, Tibo Van Houtte, Ermando Dulluku and Daniel Dickinson.
 
-Also thanks to our project supervisors Michael Iber and Stefan Nebel.
+Also thanks to our project supervisors Michael Iber and Stefan Nebel for supporting us.
