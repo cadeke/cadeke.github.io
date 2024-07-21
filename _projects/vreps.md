@@ -4,8 +4,7 @@ title: VREPS
 description: Multidisciplinary project of seven European students creating an interactive short film
 img: assets/img/vreps/vreps-1.png
 importance: 1
-category: uni
-related_publications: false
+category: game
 ---
 ## Description
 This project was made during the spring of 2022 when I took part in the European Project Semester at the [St. Pölten University of Applied Sciences](https://www.fhstp.ac.at/en?set_language=en) in Austria. During this last semester of my bachelor's degree, I got the chance to take part in this Erasmus exchange project. Together with 6 other ambitious students from all over Europe, we were tasked with creating a digital experience that would highlight the university for potential students.
