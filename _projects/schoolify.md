@@ -4,7 +4,7 @@ title: Schoolify
 description: Educational 3d multiplayer game where students need to solve questions to win
 img: assets/img/schoolify/schoolify-1.png
 importance: 2
-category: game
+category: games
 ---
 ## Description
 This project was made by three students for a university course where we learned how to build a start-up from an initial idea. We were tasked with creating a product that would solve a major problem that is currently present in our society. We choose to create a game that would engage high school students in different ways as opposed to traditional teaching methods.

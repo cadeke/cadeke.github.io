@@ -4,7 +4,7 @@ title: Climate Apocalypse
 description: Simulated climate emergency experience built in virtual reality showing the devestating effects of global warming
 img: assets/img/clima/clima-1.png
 importance: 3
-category: game
+category: games
 ---
 ## Description
 This project was made by an interdisciplinary team of four students from my home university in Antwerp. We were tasked to create a VR experience that would put a spotlight on a topic which had negative effects on our society. We chose to highlight climate change and its effects on our world.

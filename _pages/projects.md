@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here is an overview of some of the projects I have done.
 nav: true
 nav_order: 2
-display_categories: [game, security]
+display_categories: [security, games]
 horizontal: false
 ---
 

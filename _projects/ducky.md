@@ -2,11 +2,11 @@
 layout: page
 title: RubberDucky & PicoDucky
 description: Testing out the hotplug attack capabilities of the Hak5 USB Rubber Ducky
-img: assets/img/ducky.webp
+img: assets/img/ducky/ducky-1.webp
 importance: 1
 category: security
 ---
-## Description
+## Description <a href="#result">test</a>
 This project served as the final assignment for my Security course from my bachelor's degree. I was tasked with researching and testing something from the cyber security realm and to present my findings to the lecturer.
 
 ## Overview
@@ -15,7 +15,16 @@ I chose to investigate the (in)famous Hak5 USB Rubber Ducky because I was very i
 For my tests, I challenged myself with setting up two use-cases where this device could come in handy. The first one was in a security-awareness scenario where the attack would remind a user to always lock their computer when they leave their desk. In a second scenario, I wanted to establish a reverse shell to an attacking machine.
 
 ## Result
-At the end of this project, I was able to accomplish both of my use-cases. 
+At the end of this project, I was able to accomplish both of my use-cases. The following screenshot shows the hardware that was used for this project.
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ducky/ducky-2.jpg" title="ducky hardware" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+   Hardware used for the Ducky project. 
+</div>
 
 ### Security awareness
 For the awareness case, I created a so called Ducky script that would download an image and set it as the wallpaper, then run some commands to max out the volume and lock it so it cannot be turned down, and then finally playing [the Internet's favorite song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) (don't click). This worked quite well on unlocked computers, but was only a bit slow so I would optimize it so it would have a shorter running time.
