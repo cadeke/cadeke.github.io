@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here is an overview of some of the projects I have done.
+description: Here is an overview of some of the projects I have made.
 nav: true
 nav_order: 2
-display_categories: [security, games]
+display_categories: [security, games, other]
 horizontal: false
 ---
 
