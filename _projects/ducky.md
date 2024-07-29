@@ -3,10 +3,11 @@ layout: page
 title: RubberDucky & PicoDucky
 description: Testing out the hotplug attack capabilities of the Hak5 USB Rubber Ducky
 img: assets/img/ducky/ducky-1.webp
-importance: 1
+importance: 2 
 category: security
 ---
-## Description <a href="#result">test</a>
+
+## Description 
 This project served as the final assignment for my Security course from my bachelor's degree. I was tasked with researching and testing something from the cyber security realm and to present my findings to the lecturer.
 
 ## Overview
@@ -33,7 +34,7 @@ For the awareness case, I created a so called Ducky script that would download a
 For the reverse shell case, I created a second Ducky script that would disable Windows Defender and start a netcat listener. I could then connect to this listener on my attacker machine. In a real-life scenario, this would of course require a lot more steps, but it was still interesting to see it work in my small proof-of-concept.
 
 ### PicoDucky
-I also was able to recreate the functionality of the RubberDucky using a Raspberry Pi Pico and the [pico-ducky libary](https://github.com/dbisu/pico-ducky). This process took some time to setup everything correctly, but I was able to run the same script. I found however, that it was a bit more difficult to use because of the loose cables, so I did most of my testing with the actual USB Rubber Ducky.
+I also was able to recreate the functionality of the RubberDucky using a Raspberry Pi Pico and the [pico-ducky library](https://github.com/dbisu/pico-ducky). This process took some time to setup everything correctly, but I was able to run the same script. I found however, that it was a bit more difficult to use because of the loose cables, so I did most of my testing with the actual USB Rubber Ducky.
 
 ## Conclusion
 The USB Rubber Ducky is a great tool for testing out some simple hotplug attacks. I also think I would use this tool in the future when some script has to be run manually and it cannot be done in a remotely automated way (e.g. using SSH or Ansible). It offers a simple scripting language which you can use to load custom payloads available online or written by yourself.
