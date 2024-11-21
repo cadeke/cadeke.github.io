@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - cadeke/transcribe-please
+  - cadeke/mcr-ccs
   - cadeke/lets-go
+  - cadeke/transcribe-please
   - cadeke/wireless-ecg-monitor

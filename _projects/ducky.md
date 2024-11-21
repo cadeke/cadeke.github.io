@@ -3,7 +3,7 @@ layout: page
 title: RubberDucky & PicoDucky
 description: Testing out the hotplug attack capabilities of the Hak5 USB Rubber Ducky
 img: assets/img/ducky/ducky-1.webp
-importance: 2 
+importance: 3 
 category: security
 ---
 
