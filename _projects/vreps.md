@@ -14,12 +14,12 @@ Our goal for this project was to combine the skills of all of our team members i
 
 We came up with a concept where we would combine a shortfilm with an interactive virtual reality experience. Players would need to make choices during the shortfilm and these choices would influence the remaining storyline of the experience.
 
-During the development of the project, we applied an agile way of working so we could make incremental improvements during our sprints. We organized ourselves into different departments (e.g. audio, video, game, support) so all aspects of the project could be properly done. We created a professional working environment where every team member knew their tasks and what was expected of them.
+During the development of the project, we applied an agile way of working, so we could make incremental improvements during our sprints. We organized ourselves into different departments (e.g. audio, video, game, support) so all aspects of the project could be properly done. We created a professional working environment where every team member knew their tasks and what was expected of them.
 
 We also took part in some supporting classes offered by the hosting university, which gave us more insight into some of the components of the project with which we were not so familiar. On top of that, we got access to some high-end audio and video equipment which helped a lot for the production of the shortfilm.
 
 ## Result
-After three months of work, we were able to complete five different storylines and integrate them into a complete virtual experience, playable on the Oculus Quest. As part of our project, we were asked to present our project on the anual project fair at the university.
+After three months of work, we were able to complete five different storylines and integrate them into a complete virtual experience, playable on the Oculus Quest. As part of our project, we were asked to present our project on the annual project fair at the university.
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -34,7 +34,7 @@ After three months of work, we were able to complete five different storylines a
     on the left, making some very last minute adjustments, which is not uncommon during live demo's. on the right, our amazing team that made this project happen.
 </div>
 
-We were incredibly happy with our result and the opportunity to show our fellow colleagues what we had been working on for the last few months.
+We were incredibly happy with our result and the opportunity to show our colleagues what we had been working on for the last few months.
 
 Because our project deliverable consisted our of a build file for the Oculus Quest, we didn't have the chance to create a demo which reflects our creation the same way as it would be in a live environment. Nevertheless, I tried to capture the experiences by recording them and making them available on the [following YouTube playlist](https://www.youtube.com/watch?v=UY3OQ8xoT1w&list=PLHLqpInshc00Cn7GziSWT_IejGgUDWW7W&ab_channel=CasperDeKeyser). Please have a look if you are interested. The following screenshots highlight the different rooms/paths you can take, but it obviously doesn't highlight our project the same way as playing the experience like it was designed to. You can click on each room to go to the corresponding video.
 

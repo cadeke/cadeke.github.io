@@ -9,7 +9,7 @@ category: security
 
 ## Description 
 For this project, the goal was to explore different cloud services and create a suitable setup for the requirements that we were giving.
-We were tasked with creating a hybrid cloud setup with two cloud providers of our choice. One provider would host a database and the other would host a webservice, where some information from the database could be displayed.
+We were tasked with creating a hybrid cloud setup with two cloud providers of our choice. One provider would host a database and the other would host a web service, where some information from the database could be displayed.
 Both providers should be connected via a site-to-site VPN which would be hardened to only allow the necessary web traffic.
 Additionally, integrations with CI/CD and optionally IaC should also be setup.
 

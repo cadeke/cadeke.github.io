@@ -6,16 +6,17 @@ img: assets/img/clima/clima-1.png
 importance: 3
 category: games
 ---
+
 ## Description
 This project was made by an interdisciplinary team of four students from my home university in Antwerp. We were tasked to create a VR experience that would put a spotlight on a topic which had negative effects on our society. We chose to highlight climate change and its effects on our world.
 
 ## Overview
 We wanted to create an experience where players would feel the impact of climate change and what kind of natural disasters are appearing as a result.
 
-We started of with some concept thinking and prototype design sessions. Resulting from this came our idea to present a familiar environment to the player, and then sudden pulling them out of their comfort zone by transporting them to a disaster scenario. Initially, we had planned more scenario's, but we chose quality over quantity and made sure our project could be delivered in a complete state.
+We started of with some concept thinking and prototype design sessions. Resulting from this came our idea to present a familiar environment to the player, and then sudden pulling them out of their comfort zone by transporting them to a disaster scenario. Initially, we had planned more scenarios, but we chose quality over quantity and made sure our project could be delivered in a complete state.
 
 ## Result
-To experience the intended effects of the game, you should try the VR experience with the proper equipment. Because this is not feasible to demonstrate, I created a walktrough which is available on [YouTube](https://www.youtube.com/watch?v=OTdA2kXTOug&list=PLHLqpInshc02y6renjPuDl-FLVAKEQFjB&index=2&ab_channel=CasperDeKeyser).
+To experience the intended effects of the game, you should try the VR experience with the proper equipment. Because this is not feasible to demonstrate, I created a walkthrough which is available on [YouTube](https://www.youtube.com/watch?v=OTdA2kXTOug&list=PLHLqpInshc02y6renjPuDl-FLVAKEQFjB&index=2&ab_channel=CasperDeKeyser).
 
 The following screenshots show some of the scenes of this walkthrough. 
 

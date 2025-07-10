@@ -8,12 +8,12 @@ category: other
 ---
 
 ## Description 
-This project was part of the fourth semester of my bachelor's degree. As part of a small exchange project, students from my university (in Belgium) and students from a partner university (in Finland) were tasked with creating a wireless ECG-monitor. For this project, we had to work together in an organized way, because the Finnish students had more knowledge about the hardware, where as the Belgian students had to take care of the software side.
+This project was part of the fourth semester of my bachelor's degree. As part of a small exchange project, students from my university (in Belgium) and students from a partner university (in Finland) were tasked with creating a wireless ECG-monitor. For this project, we had to work together in an organized way, because the Finnish students had more knowledge about the hardware, whereas the Belgian students had to take care of the software side.
 
 ## Overview
-For this project, we split up the tasks so we could combine our strengths. I was responsible for the backend of the application, and making sure the communication between all separate components went smoothly.
+For this project, we split up the tasks in order to combine our strengths. I was responsible for the backend of the application, and making sure the communication between all separate components went smoothly.
 
-The Finnish students were able to create the monitor using an Adafruit Huzzah ESP8266 controller. This would send the measurements to a Raspberry Pi which acted as our server. After some processing the data could then be queried by a Flutter client in order to visualize the hardbeat.
+The Finnish students were able to create the monitor using an Adafruit Huzzah ESP8266 controller. This would send the measurements to a Raspberry Pi which acted as our server. After some processing the data could then be queried by a Flutter client in order to visualize the heartbeat.
 
 For my part of the project, I experimented with Docker and NodeJS in order to get our server to work. I used three containers:
 - InfluxDB: time-series database
