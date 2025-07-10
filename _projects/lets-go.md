@@ -3,7 +3,7 @@ layout: page
 title: lets-go
 description: Simple CLI application written in Go for encrypting and decrypting files 
 img: assets/img/lets-go/lets-go-1.png
-importance: 2
+importance: 3
 category: security
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: mcr-ccs
 description: Project for Cloud Computing Security tackling a hybrid cloud scenario
 img: assets/img/mcr-ccs/mcr-ccs-logo.png
-importance: 1
+importance: 2
 category: security
 ---
 

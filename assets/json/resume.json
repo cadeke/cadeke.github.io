@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Casper De Keyser",
-    "description": "Student MSc Cyber Security",
+    "description": "Graduate MSc Cyber Security",
     "image": "",
     "email": "cadeke@duck.com",
     "url": "https://cadeke.com",
-    "summary": "IT enthusiast, originally from Belgium, currently pursuing a master's degree in Austria."
+    "summary": "IT enthusiast, originally from Belgium, currently staying in Austria."
   },
   "work": [
     {
@@ -31,7 +31,7 @@
       "area": "Cyber Security & Resilience Development",
       "studyType": "MSc",
       "startDate": "2023-09",
-      "endDate": "present"
+      "endDate": "PRESENT"
     },
     {
       "institution": "AP University Of Applied Sciences and Arts",
