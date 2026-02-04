@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Graduate MSc. Cyber Security & IT enthusiast</i>
+subtitle: <i>Service Operations Engineer</i>
 
 profile:
   align: right

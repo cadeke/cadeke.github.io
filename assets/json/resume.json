@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Casper De Keyser",
-    "description": "Graduate MSc Cyber Security",
+    "description": "Service Operations Engineer",
     "image": "",
     "email": "cadeke@duck.com",
     "url": "https://cadeke.com",
-    "summary": "IT enthusiast, originally from Belgium, currently staying in Austria."
+    "summary": "IT enthusiast, originally from Belgium, currently living in Austria."
   },
   "work": [
     {
       "name": "Atlas Copco",
       "position": "Student Intern",
       "startDate": "2023-10",
-      "endDate": "present",
+      "endDate": "2025-07",
       "summary": "Part time job during my studies, continuing previous role while shifting focus to security."
     },
     {
@@ -25,13 +25,13 @@
   ],
   "education": [
     {
-      "institution": "St. Pölten University of Applied Sciences",
+      "institution": "University of Applied Sciences St. Pölten",
       "location": "St. Pölten, Austria",
-      "url": "https://www.fhstp.ac.at/en",
-      "area": "Cyber Security & Resilience Development",
+      "url": "https://www.ustp.at/en",
+      "area": "Cyber Security & Resilience",
       "studyType": "MSc",
       "startDate": "2023-09",
-      "endDate": "PRESENT"
+      "endDate": "2025-07"
     },
     {
       "institution": "AP University Of Applied Sciences and Arts",
